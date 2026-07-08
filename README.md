@@ -2,7 +2,7 @@
 
 Halaman link-in-bio statis untuk Cond Rock. Berisi foto profil, bio singkat, dan tautan ke layanan, blog, serta kontak.
 
-**Live:** [https://condrock.eu.org](https://i.cond.my.id/)
+**Live:** [https://i.cond.my.id](https://i.cond.my.id/)
 
 ## Struktur Project
 
